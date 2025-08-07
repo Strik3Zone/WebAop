@@ -1,7 +1,4 @@
-Here is the WebApp Platform Summary written in a clean, professional README.md style Markdown file — ready to drop into your /WebApp-001/ repo.
 
-
----
 
 # ⚾ Strik3Zone WebApp – Platform Overview
 
